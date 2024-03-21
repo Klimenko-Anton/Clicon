@@ -1,0 +1,20 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="Duotone/Truck" width="32.000000" height="32.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g opacity="0.200000">
+		<path id="Vector" d="M22 18L2 18L2 23C2 23.2656 2.10547 23.5195 2.29297 23.707C2.48047 23.8945 2.73486 24 3 24L5.5 24C5.5 23.2041 5.81592 22.4414 6.37891 21.8789C6.94141 21.3164 7.70459 21 8.5 21C9.29541 21 10.0586 21.3164 10.6211 21.8789C11.1841 22.4414 11.5 23.2041 11.5 24L20.5 24C20.4995 23.4727 20.6382 22.9551 20.9014 22.499C21.1646 22.043 21.5435 21.6631 22 21.4004L22 18Z" fill="#FA8232" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<g opacity="0.200000">
+		<path id="Vector" d="M26.5 24C26.5005 23.4736 26.3618 22.9561 26.0986 22.499C25.8354 22.043 25.457 21.6641 25.001 21.4004C24.5449 21.1367 24.0273 20.998 23.5005 20.998C22.9736 20.998 22.4561 21.1367 22 21.4004L22 15L30 15L30 23C30 23.2656 29.8945 23.5195 29.707 23.707C29.5195 23.8945 29.2651 24 29 24L26.5 24Z" fill="#FA8232" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<path id="Vector" d="M22 10L27.3252 10C27.5244 9.99902 27.7192 10.0576 27.8843 10.1689C28.0493 10.2812 28.1768 10.4395 28.25 10.625L30 15" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector" d="M2 18L22 18" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector" d="M23.5 27C21.8433 27 20.5 25.6572 20.5 24C20.5 22.3428 21.8433 21 23.5 21C25.1567 21 26.5 22.3428 26.5 24C26.5 25.6572 25.1567 27 23.5 27Z" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="2.000000"/>
+	<path id="Vector" d="M8.5 27C6.84326 27 5.5 25.6572 5.5 24C5.5 22.3428 6.84326 21 8.5 21C10.1567 21 11.5 22.3428 11.5 24C11.5 25.6572 10.1567 27 8.5 27Z" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="2.000000"/>
+	<path id="Vector" d="M20.5 24L11.5 24" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector" d="M5.5 24L3 24C2.73486 24 2.48047 23.8945 2.29297 23.707C2.10547 23.5195 2 23.2656 2 23L2 9C2 8.73438 2.10547 8.48047 2.29297 8.29297C2.48047 8.10547 2.73486 8 3 8L22 8L22 21.4004" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector" d="M22 15L30 15L30 23C30 23.2656 29.8945 23.5195 29.707 23.707C29.5195 23.8945 29.2651 24 29 24L26.5 24" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
