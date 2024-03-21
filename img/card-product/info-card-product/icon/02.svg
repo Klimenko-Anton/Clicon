@@ -1,0 +1,14 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect width="24.000000" height="24.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<path d="M16.5 7.5L20.4937 7.5C20.6431 7.49902 20.7893 7.54297 20.9133 7.62695C21.0371 7.71094 21.1326 7.83008 21.1875 7.96875L22.5 11.25" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path d="M1.5 13.5L16.5 13.5" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path d="M17.625 20.25C16.3823 20.25 15.375 19.2422 15.375 18C15.375 16.7578 16.3823 15.75 17.625 15.75C18.8677 15.75 19.875 16.7578 19.875 18C19.875 19.2422 18.8677 20.25 17.625 20.25Z" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="1.500000"/>
+	<path d="M6.375 20.25C5.13232 20.25 4.125 19.2422 4.125 18C4.125 16.7578 5.13232 15.75 6.375 15.75C7.61768 15.75 8.625 16.7578 8.625 18C8.625 19.2422 7.61768 20.25 6.375 20.25Z" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="1.500000"/>
+	<path d="M15.375 18L8.625 18" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path d="M4.125 18L2.25 18C2.05103 18 1.86035 17.9209 1.71973 17.7803C1.5791 17.6396 1.5 17.4492 1.5 17.25L1.5 6.75C1.5 6.55078 1.5791 6.36035 1.71973 6.21973C1.86035 6.0791 2.05103 6 2.25 6L16.5 6L16.5 16.0498" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path d="M16.5 11.25L22.5 11.25L22.5 17.25C22.5 17.4492 22.4209 17.6396 22.2803 17.7803C22.1396 17.9209 21.949 18 21.75 18L19.875 18" stroke="#FA8232" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
